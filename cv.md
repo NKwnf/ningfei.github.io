@@ -3,4 +3,4 @@ title: CV
 layout: page
 ---
 
-<a href='file/cv.pdf'></a>
+<a href='file/cv_Ningfei Wang.pdf'></a>
